@@ -1,0 +1,8 @@
+# Telegram Bot Token
+# Get this from @BotFather on Telegram
+BOT_TOKEN=
+
+# Optional: Israeli Government API Configuration
+# You may need to update these values based on the actual API endpoints
+ISRAELI_API_BASE_URL=https://data.gov.il/api/3/action/datastore_search
+LICENSE_PLATE_RESOURCE_ID=053c4f3c-e5f5-4c90-ac83-477bcb3e5596 
